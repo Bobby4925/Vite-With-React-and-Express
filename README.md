@@ -1,3 +1,6 @@
 # Vite-With-React-and-Express
 
-This is a template for a project using Vite with React JS and Express JS 
+# Project Structure
+`client` is the Vite (React) frontend
+`server` is the Express Backend 
+### Finishing ReadMe Soon......
